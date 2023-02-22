@@ -1,3 +1,3 @@
-module github.com/benkehoe/golangtest/v2/gltest
+module github.com/aidansteele/golangtest/v2/gltest
 
 go 1.19
